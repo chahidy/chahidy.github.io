@@ -1,1 +1,57 @@
-# empty
+- key: Name
+  value:
+    - Chahid
+    - Yahya
+- key: Description
+  value:
+    - BIM Specialist
+    - CAx Designer
+    - edv Supporter
+    - amateur coder
+    - hobby systemadministrator
+  typed: true
+- key: CV
+  value: coming soon...
+  url: /cv.pdf
+- key: Address
+  value:
+    - NRW / Germany
+- key: Contact
+  value:
+    - key: Email
+      value: chahid@me.com
+      url: "mailto:chahid@me.com"
+- key: Programs (Work)
+  value:
+    - value: Revit
+      url: https://www.instagram.com
+    - value: Trimble Nova
+      url: https://www.linkedin.com
+    - value: AutoCAD
+      url: https://stackoverflow.com
+    - value: Inventor
+      url: https://github.com
+    - value: Dynamo
+      url: https://github.com
+- key: Hobbys
+  value:
+    - value: HTML
+      url: https://github.com
+    - value: CSS
+      url: https://github.com
+    - value: JavaScript
+      url: https://github.com
+    - value: Python
+      url: https://github.com
+    - value: MongoDB
+      url: https://github.com
+    - value: Postgres
+      url: https://github.com
+    - value: TypeScript
+      url: https://github.com
+    - value: NextJs
+      url: https://github.com
+    - value: ExpressJs
+      url: https://github.com
+    - value: ReactJs
+      url: https://github.com
